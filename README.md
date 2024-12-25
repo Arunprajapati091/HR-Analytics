@@ -1,4 +1,4 @@
-# HR-Analytics
+# HR-Analytics Power BI Dashboard
 
 Project Objective:
 
